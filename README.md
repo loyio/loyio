@@ -9,4 +9,4 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=loyio&show_icons=true&icon_color=196F3D&text_color=999999&bg_color=121212&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=loyio" />
