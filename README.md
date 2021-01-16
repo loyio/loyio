@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on apple platform developing.
 - 🌱 I’m currently learning swift and Computer Architecture
 - 💬 Ask me about python、cpp、ml
+- 📔 Watch my blog on [loyioblog](https://github.com/loyio/blog/issues)
 - 📫 How to reach me: i#loyio.me
 
 
