@@ -3,7 +3,7 @@
 ## All my files can be used for your own use, please do not spread the files in a profitable way !!!
 
 - 🔭 I’m currently working on apple platform developing.
-- 🌱 I’m currently learning swift and Computer Architecture
+- 🌱 I’m currently learning Computer Network
 - 💬 Ask me about python、cpp、ml
 - 📔 Watch my blog on [loyioblog](https://github.com/loyio/blog/issues)
 - 📫 How to reach me: i#loyio.me
