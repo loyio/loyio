@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## All my files can be used for your own use, please do not spread the files in a profitable way !!!
+## All my files have no restrictions, You can use it freely according to the License !!!
 
 - 🔭 I’m currently working on apple platform developing.
 - 🌱 I’m currently learning Computer Network
