@@ -13,4 +13,6 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loyio&langs_count=8&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loyio&langs_count=8&layout=compact" />
+#### Thank you for the visit.
+![](http://profile-counter.glitch.me/loyio/count.svg)
