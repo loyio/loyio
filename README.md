@@ -11,8 +11,7 @@
 - 📫 How to reach me: i#loyio.me
 
 
-
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loyio&langs_count=8&layout=compact" />
+
 #### Thank you for the visit.
-![](http://profile-counter.glitch.me/loyio/count.svg)
+<img align="left" src="http://profile-counter.glitch.me/loyio/count.svg" />
