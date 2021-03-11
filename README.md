@@ -4,8 +4,7 @@
 
 <img align="right" src="https://readme.loyio.vercel.app/api?username=loyio&show_icons=true&hide=stars&include_all_commits=true&hide_title=true&theme=graywhite" />
 
-- 🔭 I’m currently working on Algorithm
-- 🌱 I’m currently learning Computer System
+- 🔭 I’m currently working on Exam
 - 💬 Ask me about python、cpp、ml
 - 📔 Watch my blog on [loyioblog](https://github.com/loyio/blog/issues)
 - 📫 How to reach me: i#loyio.me
