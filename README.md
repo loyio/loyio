@@ -13,7 +13,7 @@
 <img align="left" src="https://readme.loyio.vercel.app/api/top-langs/?username=loyio&langs_count=8&layout=compact" />
 
 #### Thank you for the visit.
-https://img.shields.io/twitter/url?style=social
-<img align="left" src="http://profile-counter.glitch.me/loyio/count.svg" />
+<img align="left" src="http://profile-counter.glitch.me/loyio/count.svg" /> 
+
 [![Linkedin Badge](https://img.shields.io/badge/-@loyio-0077b5?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077b5&link=https://www.linkedin.com/in/loyio-hex-363172158/)](https://www.linkedin.com/in/loyio-hex-363172158/)
 [![Twitter Badge](https://img.shields.io/badge/-@loyiome-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/loyio)](https://twitter.com/loyio)
