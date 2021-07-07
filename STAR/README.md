@@ -16,6 +16,7 @@
 ## Deep Learning
 
 ## iOS
+[The OldOS Project](https://github.com/zzanehip/The-OldOS-Project.git) : Recreating a fully functional version of iOS 4 in SwiftUI.
 
 ## Java
 
@@ -26,6 +27,9 @@
 ## Postgraduate
 [CSPostgraduate-408](https://github.com/CodePanda66/CSPostgraduate-408/tree/master) : 💯 CSPostgraduate 计算机考研 408 专业课资料及真题资源～✍🏻 更新中～
 
+## Python
+### GUI
+[Tkinter Designer](https://github.com/ParthJadhav/Tkinter-Designer) : Create Beautiful Tkinter GUIs by Drag and Drop ☄️
 
 ## SQL
 ## Surge or Quantumult X
