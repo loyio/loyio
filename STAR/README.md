@@ -23,6 +23,9 @@
 
 ## Machine Learning
 
+## Postgraduate
+[CSPostgraduate-408](https://github.com/CodePanda66/CSPostgraduate-408/tree/master) : 💯 CSPostgraduate 计算机考研 408 专业课资料及真题资源～✍🏻 更新中～
+
 
 ## SQL
 ## Surge or Quantumult X
