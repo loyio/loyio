@@ -12,6 +12,9 @@
 ### Blog Tools
 [utterances](https://github.com/utterance/utterances) : 🔮 A lightweight comments widget built on GitHub issues
 
+## Community
+[掘金翻译计划](https://github.com/xitu/gold-miner) : 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台
+
 ## Funny
 [Air Conditioner](https://github.com/YunYouJun/air-conditioner) : ❄️ 云空调，便携小空调，为你的夏日带去清凉！
 
