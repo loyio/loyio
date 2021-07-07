@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Computer Architecture and Operating System
 - 💬 Ask me about python、cpp、ml
-- 📔 Watch my blog on [loyioblog](https://github.com/loyio/blog/issues) and [Loyio's Notion](https://www.notion.so/Loyio-s-Dashboard-2f56bd29222a445ea9d9e8802a1ac83b)
+- 📔 Watch my blog on [loyioblog](https://blog.loyio.me) and [Loyio's Notion](https://www.notion.so/Loyio-s-Dashboard-2f56bd29222a445ea9d9e8802a1ac83b)
 - 📫 How to reach me: i#loyio.me
 
 
