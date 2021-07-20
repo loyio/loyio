@@ -24,6 +24,9 @@
 ## Java
 [MyBatis Pagination](https://github.com/pagehelper/Mybatis-PageHelper) : Mybatis通用分页插件
 
+## Linux
+[linux-0.01](https://github.com/zavg/linux-0.01) : Historically first (actually 0.01) release of linux kernel made by Linus Torvalds
+
 ## Postgraduate
 [CSPostgraduate-408](https://github.com/CodePanda66/CSPostgraduate-408/tree/master) : 💯 CSPostgraduate 计算机考研 408 专业课资料及真题资源～✍🏻 更新中～
 
