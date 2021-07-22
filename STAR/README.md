@@ -18,6 +18,10 @@
 ## Funny
 [Air Conditioner](https://github.com/YunYouJun/air-conditioner) : ❄️ 云空调，便携小空调，为你的夏日带去清凉！
 
+## Hackintosh
+[OpenCore](https://github.com/acidanthera/OpenCorePkg) : OpenCore bootloader  
+[My-Simple-theme-for-OpenCore](https://github.com/chris1111/My-Simple-OC-Themes) : Visit BLOG : https://com-chris1111.github.io
+
 ## iOS
 [The OldOS Project](https://github.com/zzanehip/The-OldOS-Project.git) : Recreating a fully functional version of iOS 4 in SwiftUI.
 
