@@ -41,5 +41,6 @@
 ## SQL
 ## Surge or Quantumult X
 [Rules And Scripts](https://github.com/blackmatrix7/ios_rule_script) : 各平台的分流规则、复写规则及自动化脚本。    
-[chuhe-git](https://github.com/ChuheGit/1) : 薅羊毛自动任务合集
+[chuhe-git](https://github.com/ChuheGit/1) : 薅羊毛自动任务合集  
+[chavyleung/scripts](https://github.com/chavyleung/scripts) : Chavy Scripts and BoxJs
 
