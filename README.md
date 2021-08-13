@@ -5,7 +5,7 @@
 
 <img align="right" src="https://loy-readme.vercel.app/api?username=loyio&show_icons=true&hide=stars&include_all_commits=true&hide_title=true&theme=graywhite" />
 
-- 🔭 I’m currently working on Computer Architecture and Operating System
+- 🔭 I’m currently working on Mathematics
 - 💬 Ask me about python、cpp、ml
 - 📔 Watch my blog on [loyioblog](https://blog.loyio.me) and [Loyio's Notion](https://www.notion.so/Loyio-s-Dashboard-2f56bd29222a445ea9d9e8802a1ac83b)
 - 📫 How to reach me: i#loyio.me
