@@ -48,6 +48,9 @@
 ### GUI
 [Tkinter Designer](https://github.com/ParthJadhav/Tkinter-Designer) : Create Beautiful Tkinter GUIs by Drag and Drop ☄️
 
+## Routers
+[lede](https://github.com/coolsnowwolf/lede) : Lean's OpenWrt source
+
 ## Shell
 [nushell](https://github.com/nushell/nushell) : A new type of shell
 
