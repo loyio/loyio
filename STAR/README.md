@@ -13,7 +13,10 @@
 [utterances](https://github.com/utterance/utterances) : 🔮 A lightweight comments widget built on GitHub issues
 
 ## Community
-[掘金翻译计划](https://github.com/xitu/gold-miner) : 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台
+[掘金翻译计划](https://github.com/xitu/gold-miner) : 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台  
+  
+## Deep Learning  
+[动手学深度学习（Dive into Deep Learning，D2L.ai）](https://github.com/d2l-ai/d2l-zh) : 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球200所大学采用教学。
 
 ## Funny
 [Air Conditioner](https://github.com/YunYouJun/air-conditioner) : ❄️ 云空调，便携小空调，为你的夏日带去清凉！
