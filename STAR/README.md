@@ -62,5 +62,8 @@
 [chuhe-git](https://github.com/ChuheGit/1) : 薅羊毛自动任务合集  
 [chavyleung/scripts](https://github.com/chavyleung/scripts) : Chavy Scripts and BoxJs  
 [iRingo](https://github.com/VirgilClyne/iRingo) : 解锁完整的Apple搜索功能和集成服务  
-[Tartarus2014/Surge-Script](https://github.com/Tartarus2014/Surge-Script) : Surge脚本收集
+[Tartarus2014/Surge-Script](https://github.com/Tartarus2014/Surge-Script) : Surge脚本收集  
+[tindy2013/subconverter](https://github.com/tindy2013/subconverter) : Utility to convert between various subscription format
+
+
 
