@@ -35,7 +35,9 @@
 [linux-0.01](https://github.com/zavg/linux-0.01) : Historically first (actually 0.01) release of linux kernel made by Linus Torvalds
 
 ## Mac
-[Bob](https://github.com/ripperhe/Bob) : Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。
+[Bob](https://github.com/ripperhe/Bob) : Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。  
+[Mark Text](https://github.com/marktext/marktext) : 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.  
+
 
 ## Network
 [frp](https://github.com/fatedier/frp) : A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
