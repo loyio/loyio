@@ -66,6 +66,8 @@
 [iRingo](https://github.com/VirgilClyne/iRingo) : 解锁完整的Apple搜索功能和集成服务  
 [Tartarus2014/Surge-Script](https://github.com/Tartarus2014/Surge-Script) : Surge脚本收集  
 [tindy2013/subconverter](https://github.com/tindy2013/subconverter) : Utility to convert between various subscription format
+  
 
-
+## Terminal
+[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) : Oh My Zsh is an open source, community-driven framework for managing your zsh configuration.  
 
