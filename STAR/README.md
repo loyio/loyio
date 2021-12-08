@@ -1,4 +1,4 @@
-# To summarize the project that I started
+# To summarize the project that I star
 
 ## Android
 
