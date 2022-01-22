@@ -11,7 +11,7 @@
 - 📫 How to reach me: i#loyio.me
 
 
-<img align="left" src="https://loy-readme.vercel.app/api/top-langs/?username=loyio&langs_count=8&layout=compact" />
+<img align="left" src="https://loy-readme.vercel.app/api/top-langs/?username=loyio&langs_count=8&layout=compact&hide=css,html,jupyter notebook" />
 
 #### Thank you for the visit.
 <img align="left" src="http://profile-counter.glitch.me/loyio/count.svg" />
