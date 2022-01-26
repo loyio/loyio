@@ -65,7 +65,9 @@
 [chavyleung/scripts](https://github.com/chavyleung/scripts) : Chavy Scripts and BoxJs  
 [iRingo](https://github.com/VirgilClyne/iRingo) : 解锁完整的Apple搜索功能和集成服务  
 [Tartarus2014/Surge-Script](https://github.com/Tartarus2014/Surge-Script) : Surge脚本收集  
-[tindy2013/subconverter](https://github.com/tindy2013/subconverter) : Utility to convert between various subscription format
+[tindy2013/subconverter](https://github.com/tindy2013/subconverter) : Utility to convert between various subscription format  
+[TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) : TikTok免拔卡解锁最新支持 iPhone （iOS 15.3） 、TikTok（V22.8.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！  
+
   
 
 ## Terminal
