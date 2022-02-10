@@ -72,4 +72,4 @@
 
 ## Terminal
 [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) : Oh My Zsh is an open source, community-driven framework for managing your zsh configuration.  
-
+[antigen](https://github.com/zsh-users/antigen) : The plugin manager for zsh.
