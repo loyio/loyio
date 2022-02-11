@@ -25,6 +25,8 @@
 ### 🗒 The last 7 days I spent my time on
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 04 February, 2022 - 10 February, 2022
+
+Swift   1 hr 33 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
