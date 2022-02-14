@@ -12,6 +12,10 @@
 ### Blog Tools
 [utterances](https://github.com/utterance/utterances) : 🔮 A lightweight comments widget built on GitHub issues
 
+## Chinese Culture
+[chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) : The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+
+
 ## Community
 [掘金翻译计划](https://github.com/xitu/gold-miner) : 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台  
   
