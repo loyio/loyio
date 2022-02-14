@@ -23,6 +23,7 @@
 [![Double Badge](https://img.shields.io/badge/@loyio-007722?style=flat&logo=Douban&logoColor=white)](https://www.douban.com/people/susmote)
 [![wakatime](https://wakatime.com/badge/user/c0ddc104-5a20-41d1-ab9a-c4d9ea20a4d9.svg)](https://wakatime.com/@c0ddc104-5a20-41d1-ab9a-c4d9ea20a4d9)
 
+-------
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
