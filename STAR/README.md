@@ -59,6 +59,10 @@
 
 ## Routers
 [lede](https://github.com/coolsnowwolf/lede) : Lean's OpenWrt source
+  
+## Rust
+[rust-lang/book](https://github.com/rust-lang/book) : The Rust Programming Language 
+
 
 ## Shell
 [nushell](https://github.com/nushell/nushell) : A new type of shell
