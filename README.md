@@ -28,14 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 February 2022 - To: 28 February 2022
+From: 22 February 2022 - To: 01 March 2022
 
-LeetCode         23 hrs 20 mins  █████████████▓░░░░░░░░░░░   54.82 %
-C++              10 hrs 16 mins  ██████░░░░░░░░░░░░░░░░░░░   24.14 %
-Swift            6 hrs 37 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
-Paper            1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-Arduino          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Other            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+LeetCode         25 hrs 58 mins  ██████████████▓░░░░░░░░░░   58.10 %
+C++              12 hrs 4 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.01 %
+Swift            5 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+Arduino          1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Other            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
