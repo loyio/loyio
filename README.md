@@ -28,11 +28,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 March 2022 - To: 21 March 2022
+From: 15 March 2022 - To: 22 March 2022
 
-LeetCode         50 hrs 59 mins  ████████████████████▓░░░░   82.36 %
-C++              5 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Other            4 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+LeetCode         46 hrs 7 mins   ██████████████████▓░░░░░░   74.63 %
+C++              10 hrs 41 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
+Other            3 hrs 37 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
 ```
 
 <!--END_SECTION:waka-->
