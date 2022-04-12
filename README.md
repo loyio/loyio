@@ -3,7 +3,7 @@
 
 ## All my files have no restrictions, You can use it freely according to the License !!!
 
-<img align="right" src="https://loy-readme.vercel.app/api?username=loyio&show_icons=true&hide=stars&include_all_commits=true&hide_title=true&theme=graywhite" />
+<img src="https://loy-readme.vercel.app/api?username=loyio&show_icons=true&hide=stars&include_all_commits=true&hide_title=true&theme=graywhite" />
 
 - 🔭 I’m currently working on algorithm and Job hunting
 - 💬 Ask me about C++, Python, iOS and ML
