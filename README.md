@@ -13,7 +13,7 @@
 <img src="https://loy-readme.vercel.app/api?username=loyio&show_icons=true&hide=stars&include_all_commits=true&hide_title=true&theme=slateorange" />
 
 
-[![loyio](https://github-profile-trophy.vercel.app/?username=loyio&theme=algolia&column=4)](https://github.com/loyio)
+[![loyio](https://github-profile-trophy.vercel.app/?username=loyio&theme=onedark&column=4)](https://github.com/loyio)
 
 
 
