@@ -3,13 +3,15 @@
 
 ## All my files have no restrictions, You can use it freely according to the License !!!
 
+<img align="right"  src="https://loy-readme.vercel.app/api/top-langs/?username=loyio&langs_count=8&layout=default&hide=css,html,jupyter notebook" />
+
 - 🔭 I’m currently working on algorithm and Job hunting
 - 💬 Ask me about C++, Python, iOS and ML
 - 📔 Watch my blog on [Loyio's Blog](https://loyio.me),[Issues blog](https://github.com/loyio/blog/issues), [Loyio's Notion](https://loyio.notion.site/loyio/Loyio-s-Dashboard-2f56bd29222a445ea9d9e8802a1ac83b)
 - 📫 How to reach me: i#loyio.me
 
-<img align="left" src="https://loy-readme.vercel.app/api?username=loyio&show_icons=true&theme=radical&hide=stars&include_all_commits=true&hide_title=true&theme=graywhite" />
-<img align="right"  src="https://loy-readme.vercel.app/api/top-langs/?username=loyio&langs_count=8&layout=default&theme=radical&hide=css,html,jupyter notebook" />
+<img src="https://loy-readme.vercel.app/api?username=loyio&show_icons=true&hide=stars&include_all_commits=true&hide_title=true&theme=slateorange" />
+
 
 [![loyio](https://github-profile-trophy.vercel.app/?username=loyio&theme=algolia&column=4)](https://github.com/loyio)
 
