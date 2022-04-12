@@ -3,12 +3,16 @@
 
 ## All my files have no restrictions, You can use it freely according to the License !!!
 
-<img align="right"  src="https://loy-readme.vercel.app/api/top-langs/?username=loyio&langs_count=6&layout=compact&hide=css,html,jupyter notebook" />
+<img align="right"  src="https://loy-readme.vercel.app/api/top-langs/?username=loyio&langs_count=6&hide=css,html,jupyter notebook" />
 
 - 🔭 I’m currently working on algorithm and Job hunting
 - 💬 Ask me about C++, Python, iOS and ML
 - 📔 Watch my blog on [Loyio's Blog](https://loyio.me),[Issues blog](https://github.com/loyio/blog/issues), [Loyio's Notion](https://loyio.notion.site/loyio/Loyio-s-Dashboard-2f56bd29222a445ea9d9e8802a1ac83b)
 - 📫 How to reach me: i#loyio.me
+
+
+#### Thank you for the visit.
+<img src="http://profile-counter.glitch.me/loyio/count.svg" />
 
 <img src="https://loy-readme.vercel.app/api?username=loyio&show_icons=true&hide=stars&include_all_commits=true&hide_title=true&theme=slateorange" />
 
@@ -18,8 +22,7 @@
 
 
 
-#### Thank you for the visit.
-<img src="http://profile-counter.glitch.me/loyio/count.svg" />
+
 
 
 
