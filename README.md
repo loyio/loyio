@@ -3,7 +3,7 @@
 
 ## All my files have no restrictions, You can use it freely according to the License !!!
 
-<img align="right"  src="https://loy-readme.vercel.app/api/top-langs/?username=loyio&langs_count=8&layout=default&hide=css,html,jupyter notebook" />
+<img align="right"  src="https://loy-readme.vercel.app/api/top-langs/?username=loyio&langs_count=6&layout=compact&hide=css,html,jupyter notebook" />
 
 - 🔭 I’m currently working on algorithm and Job hunting
 - 💬 Ask me about C++, Python, iOS and ML
@@ -12,13 +12,14 @@
 
 <img src="https://loy-readme.vercel.app/api?username=loyio&show_icons=true&hide=stars&include_all_commits=true&hide_title=true&theme=slateorange" />
 
+     
 
 [![loyio](https://github-profile-trophy.vercel.app/?username=loyio&theme=onedark&column=4)](https://github.com/loyio)
 
 
 
 #### Thank you for the visit.
-<img align="left" src="http://profile-counter.glitch.me/loyio/count.svg" />
+<img src="http://profile-counter.glitch.me/loyio/count.svg" />
 
 
 
