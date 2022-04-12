@@ -20,14 +20,6 @@
 
 [![loyio](https://github-profile-trophy.vercel.app/?username=loyio&theme=onedark&column=4)](https://github.com/loyio)
 
-
-
-
-
-
-
-</br></br>
-
 [![Linkedin Badge](https://img.shields.io/badge/-@loyio-0077b5?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077b5&link=https://www.linkedin.com/in/loyio-hex-363172158/)](https://www.linkedin.com/in/loyio-hex-363172158/)
 [![Twitter Badge](https://img.shields.io/badge/-@loyiome-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/loyiome)](https://twitter.com/loyiome)
 [![Double Badge](https://img.shields.io/badge/@loyio-007722?style=flat&logo=Douban&logoColor=white)](https://www.douban.com/people/susmote)
