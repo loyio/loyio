@@ -16,7 +16,7 @@
 #### Thank you for the visit.
 <img align="left" src="http://profile-counter.glitch.me/loyio/count.svg" />
 
-[![loyio](https://github-profile-trophy.vercel.app/?username=loyio&theme=algolia)](https://github.com/loyio)
+[![loyio](https://github-profile-trophy.vercel.app/?username=loyio&theme=algolia&column=4)](https://github.com/loyio)
 
 </br></br>
 
