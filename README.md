@@ -16,6 +16,8 @@
 #### Thank you for the visit.
 <img align="left" src="http://profile-counter.glitch.me/loyio/count.svg" />
 
+[![loyio](https://github-profile-trophy.vercel.app/?username=loyio&theme=algolia)](https://github.com/loyio)
+
 </br></br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-@loyio-0077b5?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077b5&link=https://www.linkedin.com/in/loyio-hex-363172158/)](https://www.linkedin.com/in/loyio-hex-363172158/)
