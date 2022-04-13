@@ -3,7 +3,15 @@
 
 ## All my files have no restrictions, You can use it freely according to the License !!!
 
-<img align="right"  src="https://loy-readme.vercel.app/api/top-langs/?username=loyio&langs_count=6&hide=css,html,jupyter notebook" />
+<a href="https://github.com/loyio#gh-light-mode-only">
+     <img align="right"  src="https://loy-readme.vercel.app/api/top-langs/?username=loyio&langs_count=6&hide=css,html,jupyter notebook" />
+</a>
+
+<a href="https://github.com/loyio#gh-dark-mode-only">
+  <img align="right"  src="https://loy-readme.vercel.app/api/top-langs/?username=loyio&langs_count=6&theme=slateorange&hide=css,html,jupyter notebook" />
+</a>
+
+
 
 - 🔭 I’m currently working on algorithm and Job hunting
 - 💬 Ask me about C++, Python, iOS and ML
