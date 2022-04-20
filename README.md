@@ -38,12 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 April 2022 - To: 18 April 2022
+From: 12 April 2022 - To: 19 April 2022
 
-LeetCode         9 hrs 45 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
-Go               6 hrs 56 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
-Python           5 hrs           ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
-Other            4 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
+LeetCode         9 hrs 35 mins   ███████▓░░░░░░░░░░░░░░░░░   30.63 %
+Python           5 hrs           ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
+Other            4 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
 ```
 
 <!--END_SECTION:waka-->
