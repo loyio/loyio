@@ -86,3 +86,4 @@
    
 ## Vim
 [Vundle.vim](https://github.com/VundleVim/Vundle.vim) : Vundle, the plug-in manager for Vim
+[neovim](https://github.com/neovim/neovim) : Vim-fork focused on extensibility and usability
