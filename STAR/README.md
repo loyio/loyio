@@ -15,6 +15,10 @@
 ## Chinese Culture
 [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) : The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
 
+## C++
+[cppcheck](https://github.com/danmar/cppcheck) : static analysis of C/C++ code  
+[cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) : Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
+
 
 ## Community
 [掘金翻译计划](https://github.com/xitu/gold-miner) : 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台  
@@ -24,6 +28,9 @@
 
 ## Funny
 [Air Conditioner](https://github.com/YunYouJun/air-conditioner) : ❄️ 云空调，便携小空调，为你的夏日带去清凉！
+
+## Forum
+[Flarum](https://github.com/flarum/flarum) : Simple forum software for building great communities.
 
 ## Hackintosh
 [OpenCore](https://github.com/acidanthera/OpenCorePkg) : OpenCore bootloader  
@@ -85,5 +92,5 @@
    
    
 ## Vim
-[Vundle.vim](https://github.com/VundleVim/Vundle.vim) : Vundle, the plug-in manager for Vim
+[Vundle.vim](https://github.com/VundleVim/Vundle.vim) : Vundle, the plug-in manager for Vim  
 [neovim](https://github.com/neovim/neovim) : Vim-fork focused on extensibility and usability
