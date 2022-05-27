@@ -38,10 +38,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 May 2022 - To: 25 May 2022
+From: 19 May 2022 - To: 26 May 2022
 
-Python           4 hrs 4 mins    ███████▓░░░░░░░░░░░░░░░░░   31.04 %
-Other            3 hrs 53 mins   ███████▒░░░░░░░░░░░░░░░░░   29.63 %
+LeetCode         3 hrs 13 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.46 %
+Other            3 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   24.33 %
 ```
 
 <!--END_SECTION:waka-->
