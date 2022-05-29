@@ -38,11 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 May 2022 - To: 27 May 2022
+From: 21 May 2022 - To: 28 May 2022
 
-LeetCode         3 hrs 13 mins   ██████████░░░░░░░░░░░░░░░   39.85 %
-Paper            2 hrs 56 mins   █████████░░░░░░░░░░░░░░░░   36.32 %
-Other            1 hr 2 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
+LeetCode         2 hrs 58 mins   ██████████▓░░░░░░░░░░░░░░   42.91 %
+Paper            2 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   32.93 %
+Other            51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
 ```
 
 <!--END_SECTION:waka-->
