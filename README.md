@@ -38,10 +38,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 June 2022 - To: 01 July 2022
+From: 25 June 2022 - To: 02 July 2022
 
-LeetCode   3 hrs 35 mins   ████████████████████▒░░░░   81.23 %
-Other      40 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
+LeetCode   3 hrs 13 mins   ████████████████████░░░░░   79.64 %
+Other      40 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
 ```
 
 <!--END_SECTION:waka-->
