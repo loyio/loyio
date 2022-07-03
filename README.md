@@ -14,7 +14,7 @@
 
 
 - 🔭 I’m currently working on algorithm and Job hunting
-- 💬 Ask me about C++, Python, iOS and ML
+- 💬 Ask me about C++, Python, Mac, iOS and ML on [Discussions](https://github.com/loyio/blog/discussions)
 - 📔 Watch my blog on [Loyio's Blog](https://loyio.me),[Issues blog](https://github.com/loyio/blog/issues), [Loyio's Notion](https://loyio.notion.site/loyio/Loyio-s-Dashboard-2f56bd29222a445ea9d9e8802a1ac83b)
 - 📫 How to reach me: i#loyio.me
 
