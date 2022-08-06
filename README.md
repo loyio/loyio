@@ -34,7 +34,6 @@
 [![wakatime](https://wakatime.com/badge/user/c0ddc104-5a20-41d1-ab9a-c4d9ea20a4d9.svg)](https://wakatime.com/@c0ddc104-5a20-41d1-ab9a-c4d9ea20a4d9)
 
 -------
-### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
