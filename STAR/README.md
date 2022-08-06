@@ -32,6 +32,11 @@
 ## Forum
 [Flarum](https://github.com/flarum/flarum) : Simple forum software for building great communities.
 
+
+## Github
+[Shields.io](https://github.com/badges/shields) : Concise, consistent, and legible badges in SVG and raster format   
+[GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) : 🏆 Add dynamically generated GitHub Stat Trophies on your readme
+
 ## Hackintosh
 [OpenCore](https://github.com/acidanthera/OpenCorePkg) : OpenCore bootloader  
 [My-Simple-theme-for-OpenCore](https://github.com/chris1111/My-Simple-OC-Themes) : Visit BLOG : https://com-chris1111.github.io
