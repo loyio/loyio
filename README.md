@@ -4,7 +4,7 @@
 ## All my files have no restrictions, You can use it freely according to the License !!!
 
 <a href="https://github.com/loyio#gh-light-mode-only">
-     <img align="right"  src="https://loy-readme.vercel.app/api/top-langs/?username=loyio&langs_count=6&hide=css,html,jupyter notebook" />
+     <img align="right"  src="https://loy-readme.vercel.app/api/top-langs/?username=loyio&langs_count=6&hide=css,html,jupyter%20notebook" />
 </a>
 
 <a href="https://github.com/loyio#gh-dark-mode-only">
