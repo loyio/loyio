@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://github.com/loyio#gh-dark-mode-only">
-  <img align="right"  src="https://loy-readme.vercel.app/api/top-langs/?username=loyio&langs_count=6&theme=slateorange&hide=css,html,jupyter notebook" />
+  <img align="right"  src="https://loy-readme.vercel.app/api/top-langs/?username=loyio&langs_count=6&theme=slateorange&hide=css,html,jupyter%20notebook" />
 </a>
 
 
