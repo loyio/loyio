@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I’m currently working on game engine
+- 🔭 I’m currently working on 3D Game Engine
 - 💬 Ask me about C++, Python, Mac, iOS and ML on [Discussions](https://github.com/loyio/blog/discussions)
 - 📔 Watch my blog on [Loyio's Blog](https://loyio.me),[Issues blog](https://github.com/loyio/blog/issues), [Loyio's Notion](https://loyio.notion.site/loyio/Loyio-s-Dashboard-2f56bd29222a445ea9d9e8802a1ac83b)
 - 💻 Some configurations and peripherals I'm using in [dotfiles](https://github.com/loyio/dotfiles)
