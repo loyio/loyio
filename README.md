@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I’m currently working on Graphics
+- 🔭 I’m currently working on Technical Assistance
 - 💬 Ask me about C++, Python, Mac, iOS and ML on [Discussions](https://github.com/loyio/blog/discussions)
 - 📔 Watch my blog on [Loyio's Blog](https://loyio.me), [Loyio's Notion](https://loyio.notion.site/loyio/Loyio-s-Dashboard-2f56bd29222a445ea9d9e8802a1ac83b)
 - 💻 Some configurations and peripherals I'm using in [dotfiles](https://github.com/loyio/dotfiles)
