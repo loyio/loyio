@@ -30,7 +30,7 @@
 [![loyio](https://github-profile-trophy.vercel.app/?username=loyio&theme=onedark&column=4)](https://github.com/loyio)
 
 [![Linkedin Badge](https://img.shields.io/badge/-@loyio-0077b5?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077b5&link=https://www.linkedin.com/in/loyio-hex-363172158/)](https://www.linkedin.com/in/loyio-hex-363172158/)
-[![Twitter Badge](https://img.shields.io/badge/-@loyiome-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/loyiome)](https://twitter.com/loyiome)
+[![Twitter Badge](https://img.shields.io/badge/-@loyiome-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/loyiome)](https://twitter.com/loyiome)
 [![Double Badge](https://img.shields.io/badge/@loyio-007722?style=flat&logo=Douban&logoColor=white)](https://www.douban.com/people/susmote)
 [![wakatime](https://wakatime.com/badge/user/c0ddc104-5a20-41d1-ab9a-c4d9ea20a4d9.svg)](https://wakatime.com/@c0ddc104-5a20-41d1-ab9a-c4d9ea20a4d9)
 
