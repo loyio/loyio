@@ -1,4 +1,5 @@
-<h3 align="left">Hi there <img src="https://raw.githubusercontent.com/loyio/loyio/master/hello-loyio.gif" width="28"></h3>
+<h3 align="left">Hi there</h3>
+<img src='https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif' width='28' />
 <a align="right" href="https://github.com/loyio/loyio/blob/master/STAR/README.md"><img align="right" src="https://img.shields.io/badge/LOYIO-STAR-green" /></a>
 
 ## All my files have no restrictions, You can use it freely according to the License !!!
