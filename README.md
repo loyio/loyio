@@ -32,35 +32,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-@loyio-0077b5?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077b5&link=https://www.linkedin.com/in/loyio-hex-363172158/)](https://www.linkedin.com/in/loyio-hex-363172158/)
 [![Twitter Badge](https://img.shields.io/badge/-@loyiome-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/loyiome)](https://twitter.com/loyiome)
-[![Double Badge](https://img.shields.io/badge/@loyio-007722?style=flat&logo=Douban&logoColor=white)](https://www.douban.com/people/susmote)
-[![wakatime](https://wakatime.com/badge/user/c0ddc104-5a20-41d1-ab9a-c4d9ea20a4d9.svg)](https://wakatime.com/@c0ddc104-5a20-41d1-ab9a-c4d9ea20a4d9)
-
--------
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Work                     12 hrs 42 mins      ███████████████░░░░░░░░░░   59.22 % 
-C++                      4 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-C#                       1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-LeetCode                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-ObjectiveC               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-
-🔥 Editors: 
-Chrome                   13 hrs 48 mins      ████████████████░░░░░░░░░   64.34 % 
-Android Studio           5 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-Jetbrainsrider           1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-VS Code                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-
-💻 Operating System: 
-Windows                  20 hrs 16 mins      ████████████████████████░   94.47 % 
-Mac                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-```
-
-
- Last Updated on 27/05/2024 00:26:16 UTC
-<!--END_SECTION:waka-->
+[![Douban Badge](https://img.shields.io/badge/@loyio-007722?style=flat&logo=Douban&logoColor=white)](https://www.douban.com/people/susmote)
